@@ -29,7 +29,7 @@ The analysis is designed to be **simple, academic-ready, and reusable**.
 
 ## Dataset
 
-- **Source:** Annual PM2.5 emissions from wildfires (CSV format)
+- **Source:** Annual PM2.5 emissions from wildfires (CSV format) from ourworldindata.org
 - **Format:** Country, Year, PM2.5 emissions
 - **Usage:** Raw CSV is loaded directly into Python and Excel for analysis
 
